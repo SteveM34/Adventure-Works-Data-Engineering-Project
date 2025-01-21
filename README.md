@@ -30,6 +30,21 @@ The following **Data Model** represents the key entities and relationships withi
 
 ![Data Model](data_model.png)
 
-## Project Structure
-The repository is structured as follows:
+## Power BI Dashboards
+
+Below are the **Power BI Dashboards** created using data served from **Azure Synapse Analytics**:
+
+### 1. **Executive Summary Dashboard**
+
+This dashboard provides an overview of key metrics and insights into overall business performance, focusing on high-level sales and operational metrics.
+
+![Executive Summary Dashboard](PowerBi_Dashboard_Images/Exec_summary.JPG)
+
+### 2. **Customer Details - Top Revenue Customers**
+
+This dashboard visualizes the details of top revenue-generating customers, including their demographics, regions, and purchasing patterns.
+
+![Customer Details Dashboard](PowerBi_Dashboard_Images/Customer_Detail.JPG)
+
+
 
