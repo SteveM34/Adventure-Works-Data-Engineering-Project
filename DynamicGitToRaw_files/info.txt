@@ -1,0 +1,6 @@
+selected resource name:		DynamicGitToRaw
+selected resource type:		pipeline
+factory name:			adf-aw-project-steve
+factory location:		eastus
+subscription id:		48f7d2c4-caca-4eff-bb17-c0ce6b2eb948
+time of download (UTC):		Tue, 21 Jan 2025 05:33:27 GMT
